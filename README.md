@@ -1,5 +1,4 @@
 # Tableau_Dashboard_Airbnb
-# Airbnb-Data-Analysis-EDA
 ![airbnb](https://user-images.githubusercontent.com/119489207/205582931-4a73dba0-8b62-49c2-8e5c-7901204ebd2a.png)
 
 Airbnb is an online marketplace focused on short-term homestays and experiences. The company acts as a broker and charges a commission from each booking. It is based in San Francisco, California. <br> 
