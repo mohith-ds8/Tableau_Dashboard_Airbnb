@@ -1,9 +1,10 @@
 # Tableau_Dashboard_Airbnb
-#### Tableau Dashboard link(Public): https://public.tableau.com/views/Airbnb_16855143613710/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ![airbnb](https://user-images.githubusercontent.com/119489207/205582931-4a73dba0-8b62-49c2-8e5c-7901204ebd2a.png)
 
 ![Tableau Dashboard](https://github.com/mohith-ds8/Tableau_Dashboard_Airbnb/assets/119489207/babdf283-4903-4123-9f14-09104319847d)
 
+#### Tableau Dashboard link(Public): https://public.tableau.com/views/Airbnb_16855143613710/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Airbnb is an online marketplace focused on short-term homestays and experiences. The company acts as a broker and charges a commission from each booking. It is based in San Francisco, California. <br> 
 An Airbnb Dataset of 48895 entries and 16 variables was given to perform Exploratory Data Analysis (EDA)to find solutions for a particular business objective. <br>
