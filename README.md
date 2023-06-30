@@ -1,4 +1,4 @@
-# Tableau_Dashboard_Airbnb
+# Tableau Dashboard (NYC Airbnb data)
 
 ![airbnb](https://user-images.githubusercontent.com/119489207/205582931-4a73dba0-8b62-49c2-8e5c-7901204ebd2a.png)
 
